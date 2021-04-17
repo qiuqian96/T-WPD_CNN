@@ -1,2 +1,2 @@
-# Jiayang-data
-The data come from Jiayang coal mine and process manually. I hope it can help your study.
+# T-WPD CNN
+It contains computer code in python 3 and two data set.
